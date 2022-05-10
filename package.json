@@ -1,0 +1,24 @@
+{
+   "name": "udemy-100_algorithms_challenge",
+   "description": "",
+   "version": "1.0.0",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SamuelValmir/Udemy-100_Algorithms_Challenge.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/SamuelValmir/Udemy-100_Algorithms_Challenge/issues"
+   },
+   "homepage": "https://github.com/SamuelValmir/Udemy-100_Algorithms_Challenge#readme",
+   "devDependencies": {
+      "ts-node": "^10.7.0",
+      "typescript": "^4.6.4"
+   }
+}
