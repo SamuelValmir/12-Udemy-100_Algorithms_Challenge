@@ -1,2 +1,2 @@
-# Udemy-100_Algorithms_Challenge
+# Udemy 100 Algorithms Challenge (Javascript)
  
