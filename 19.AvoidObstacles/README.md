@@ -5,20 +5,22 @@ Assume that you are jumping from the point with coordinate 0 to the right. You a
 Find the minimal length of the jump enough to avoid all the obstacles.
 
 ### Example
-For inputArray = [5, 3, 6, 7, 9], the output should be avoidObstacles(inputArray) = 4.
+
+For inputArray = [5, 3, 6, 7, 9], the output should be
+avoidObstacles(inputArray) = 4.
 
 ### Hints
-- sort()
-- every()
+-   sort()
+-   every()
 
 ### Input/Output
 - **[time limit] 4000ms (js)**
 - **[input] array.integer inputArray**
 Non-empty array of positive integers.
 
-- **[output] array.integer**
-Array containing answer values computed as described above.
+- **[output] integer**
+The desired length.
 
 ### Guaranteed constraints:
-3 ≤ items.length ≤ 15,
-1 ≤ items[i] ≤ 200.
+2 ≤ inputArray.length ≤ 10,
+1 ≤ inputArray[i] ≤ 40.
