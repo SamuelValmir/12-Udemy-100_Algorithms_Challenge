@@ -1,3 +1,5 @@
+export{};
+
 function generateIntegerArray(): number[] {
     const integerArrayLength = Math.floor(Math.random() * (11 - 2) + 2);
     let integerArray: number[] = [];
