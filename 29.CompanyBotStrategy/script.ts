@@ -29,7 +29,7 @@ function companyBotStrategy(trainingData: number[][]): number {
 
     });
 
-    return counter !== 0 ? sum / counter : 0;;
+    return counter !== 0 ? sum / counter : 0;
 };
 
 let trainingData: number[][] = generateInput();
