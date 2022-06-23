@@ -15,7 +15,6 @@ function generateString(): string {
     let string = "";
     let stringLength = Math.floor(Math.random() * (11 - 1) + 1);
 
-    stringLength
     for (let i = 0; i < stringLength; i++) {
         let randomPos = Math.floor(Math.random() * letters.length);
         let letter = letters[randomPos];
