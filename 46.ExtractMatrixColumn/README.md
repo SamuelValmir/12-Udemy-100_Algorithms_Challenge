@@ -1,4 +1,4 @@
-## Even Digits Only
+## Extract Matrix Column
 ---
 Given array of integers, remove each kth element from it.
 
